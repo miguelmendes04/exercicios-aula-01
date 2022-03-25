@@ -1,0 +1,31 @@
+#div1{
+    background-color: #1c4163; 
+    width: 800px; 
+    height: 800px;
+}
+
+#div1_filho1{
+    background-color: #1eff00;
+    width: 35%; 
+    height: 35%;
+}
+
+#div1_filho2{
+    color: rgb(255, 0, 76); 
+    background-color: rgb(158, 249, 255); 
+    font-size: 10px; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
+}
+
+#div2{
+    width: 20%; 
+    height: 10vh; 
+    background-color: rgb(233, 203, 104);
+}
+
+#div2_filho{
+    width: 90vw; 
+    height: 10%; 
+    background-color: rgb(230, 78, 78);
+}
